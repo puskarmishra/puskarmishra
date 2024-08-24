@@ -2,9 +2,10 @@
 - 👀 I’m interested in exploring new technologies.
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me LinkedIn 
+- 📫 LinkedIn ID- https://www.linkedin.com/in/puskar-mishra-032824280/
 - 😄 Pronouns: Puskar
-- ⚡ Fun fact: I want to make connections.
+- ⚡ Fun fact:I write Automobile blogs too.
+-  Blogging channel link- https://puskarrevs.blogspot.com/
 
 <!---
 puskarmishra/puskarmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
